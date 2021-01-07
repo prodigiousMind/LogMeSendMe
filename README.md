@@ -1,6 +1,20 @@
    
                         
-                        
+   
+   
+   
+   
+ _              __  __     ___              _ __  __     
+| |   ___  __ _|  \/  |___/ __| ___ _ _  __| |  \/  |___ 
+| |__/ _ \/ _` | |\/| / -_)__ \/ -_) ' \/ _` | |\/| / -_)
+|____\___/\__, |_|  |_\___|___/\___|_||_\__,_|_|  |_\___|
+          |___/                                          
+
+
+   
+   
+    
+   
 LogMeSendMe is a python invisible keylogging script that logged all the keys and send all captured keys to an email as an attachment when the user press Escape key <Esc>.
 
 it requires pynput module.
